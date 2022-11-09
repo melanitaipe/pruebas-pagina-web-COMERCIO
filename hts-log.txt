@@ -1,0 +1,162 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Nov 2022 19:47:45 at https://www.papeleradelsur.com.ar/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.papeleradelsur.com.ar/ -O1 "C:\My Web Sites\empresapapelera" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:46	Warning: 	Found for https://www.papeleradelsur.com.ar/
+19:47:46	Warning: 	File has moved from https://www.papeleradelsur.com.ar/ to https://www.papeleradelsur.com.ar/en/
+19:48:08	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/icon/favicon-pds.svg (from https://www.papeleradelsur.com.ar/en/)
+19:48:08	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/safari-pinned-tab.svg (from https://www.papeleradelsur.com.ar/en/)
+19:48:13	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.papeleradelsur.com.ar/en/)
+19:49:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/generacion-circular/alianza-circular/ (from https://www.papeleradelsur.com.ar/en/)
+19:49:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/en/hz-group/
+19:49:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/en/hz-group/ to https://www.papeleradelsur.com.ar/en/about-us/hz-group/
+19:49:16	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/en/circular-purpose/
+19:49:16	Warning: 	File has moved from https://www.papeleradelsur.com.ar/en/circular-purpose/ to https://www.papeleradelsur.com.ar/en/about-us/circular-purpose/
+19:49:16	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/font/AlbertSans-Regular (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/main-style.css)
+19:49:16	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/font/AlbertSans-Black (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/main-style.css)
+19:49:16	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/font/AlbertSans-SemiBold (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/main-style.css)
+19:49:16	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/font/AlbertSans-Bold (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/main-style.css)
+19:49:16	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/font/AlbertSans-ExtraBold (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/main-style.css)
+19:49:16	Warning: 	Retry after error 500 (Internal Server Error) at link dev.zetenta.com/papeleradelsur/img/img-1.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:49:16	Warning: 	Retry after error 500 (Internal Server Error) at link dev.zetenta.com/papeleradelsur/img/img-2.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:49:16	Warning: 	Retry after error 500 (Internal Server Error) at link dev.zetenta.com/papeleradelsur/img/img-3.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:49:16	Warning: 	Retry after error 500 (Internal Server Error) at link dev.zetenta.com/papeleradelsur/img/img-4.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:49:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/nosotros.css (from https://www.papeleradelsur.com.ar/en/about-us/hz-group/)
+19:49:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/wp/v2/pages/246 (from https://www.papeleradelsur.com.ar/en/about-us/hz-group/)
+19:49:17	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=246
+19:49:17	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=246 to https://www.papeleradelsur.com.ar/en/about-us/hz-group/
+19:49:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.papeleradelsur.com.ar%2Fen%2Fabout-us%2Fhz-group%2F (from https://www.papeleradelsur.com.ar/en/about-us/hz-group/)
+19:49:23	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1706
+19:49:23	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1706 to https://www.papeleradelsur.com.ar/en/about-us/circular-purpose/
+19:49:23	Warning: 	Retry after error -4 (No data (connection closed)) at link www.papeleradelsur.com.ar/assets/scripts/a3-lazy-load/assets/images/lazy_placeholder.gif (from https://www.papeleradelsur.com.ar/en/about-us/circular-purpose/)
+19:49:25	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1712
+19:49:25	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1712 to https://www.papeleradelsur.com.ar/en/about-us/quality-management/
+19:49:27	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=372
+19:49:27	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=372 to https://www.papeleradelsur.com.ar/en/products/
+19:49:29	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=380
+19:49:29	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=380 to https://www.papeleradelsur.com.ar/en/product/duplexpack-en/
+19:49:30	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1733
+19:49:30	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1733 to https://www.papeleradelsur.com.ar/en/product/triplexpack-en/
+19:49:31	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1776
+19:49:31	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1776 to https://www.papeleradelsur.com.ar/en/product/terraprint-en/
+19:49:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/?p=1779 (from https://www.papeleradelsur.com.ar/en/product/whitekraft-en/)
+19:49:34	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1782
+19:49:34	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1782 to https://www.papeleradelsur.com.ar/en/product/linerind-en/
+19:49:36	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1850
+19:49:36	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1850 to https://www.papeleradelsur.com.ar/en/services/innovation-and-development/
+19:49:38	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1853
+19:49:38	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1853 to https://www.papeleradelsur.com.ar/en/services/customer-service/
+19:49:39	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1872
+19:49:39	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1872 to https://www.papeleradelsur.com.ar/en/circular-generation/
+19:49:40	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1971
+19:49:40	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1971 to https://www.papeleradelsur.com.ar/en/circular-generation/protected-forests/
+19:49:40	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1977
+19:49:40	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1977 to https://www.papeleradelsur.com.ar/en/circular-generation/circular-alliance/
+19:49:42	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1985
+19:49:42	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1985 to https://www.papeleradelsur.com.ar/en/circular-generation/circular-raw-materials/
+19:49:43	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1876
+19:49:43	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1876 to https://www.papeleradelsur.com.ar/en/community/
+19:49:58	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1960
+19:49:58	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1960 to https://www.papeleradelsur.com.ar/en/news/
+19:49:59	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1965
+19:49:59	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1965 to https://www.papeleradelsur.com.ar/en/contact/
+19:50:02	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1896
+19:50:02	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1896 to https://www.papeleradelsur.com.ar/en/novedades/alimentek-2022-packing-expo/
+19:50:04	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1900
+19:50:04	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1900 to https://www.papeleradelsur.com.ar/en/novedades/the-launch-of-our-new-terra-print-paperboard/
+19:50:06	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1903
+19:50:06	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1903 to https://www.papeleradelsur.com.ar/en/novedades/estrella-del-sur-awards/
+19:50:06	Warning: 	Retry after error 500 () at link dev.zetenta.com/papeleradelsur/img/img-1.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:06	Warning: 	Retry after error 500 () at link dev.zetenta.com/papeleradelsur/img/img-2.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:06	Warning: 	Retry after error 500 () at link dev.zetenta.com/papeleradelsur/img/img-3.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:06	Warning: 	Retry after error 500 () at link dev.zetenta.com/papeleradelsur/img/img-4.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:07	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=212
+19:50:07	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=212 to https://www.papeleradelsur.com.ar/nosotros/grupo-hz/
+19:50:07	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/grupo-hz/
+19:50:07	Warning: 	File has moved from https://www.papeleradelsur.com.ar/grupo-hz/ to https://www.papeleradelsur.com.ar/nosotros/grupo-hz/
+19:50:07	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/proposito-circular/
+19:50:07	Warning: 	File has moved from https://www.papeleradelsur.com.ar/proposito-circular/ to https://www.papeleradelsur.com.ar/nosotros/proposito-circular/
+19:50:07	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/gestion-de-calidad/
+19:50:07	Warning: 	File has moved from https://www.papeleradelsur.com.ar/gestion-de-calidad/ to https://www.papeleradelsur.com.ar/nosotros/gestion-de-calidad/
+19:50:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/wp/v2/pages/1091 (from https://www.papeleradelsur.com.ar/nosotros/proposito-circular/)
+19:50:07	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1091
+19:50:07	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1091 to https://www.papeleradelsur.com.ar/nosotros/proposito-circular/
+19:50:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.papeleradelsur.com.ar%2Fnosotros%2Fproposito-circular%2F (from https://www.papeleradelsur.com.ar/nosotros/proposito-circular/)
+19:50:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/img//nosotros/Papelera-del-sur-nosotros-gestion-calidad-banner.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/gestion.css)
+19:50:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1070
+19:50:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1070 to https://www.papeleradelsur.com.ar/nosotros/gestion-de-calidad/
+19:50:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=253
+19:50:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=253 to https://www.papeleradelsur.com.ar/productos/
+19:50:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=400
+19:50:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=400 to https://www.papeleradelsur.com.ar/product/duplexpack/
+19:50:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=404
+19:50:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=404 to https://www.papeleradelsur.com.ar/product/triplexpack/
+19:50:08	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=408
+19:50:08	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=408 to https://www.papeleradelsur.com.ar/product/terraprint/
+19:50:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/wp/v2/product/412 (from https://www.papeleradelsur.com.ar/product/whitekraft/)
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=412
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=412 to https://www.papeleradelsur.com.ar/product/whitekraft/
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1779
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1779 to https://www.papeleradelsur.com.ar/en/product/whitekraft-en/
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=415
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=415 to https://www.papeleradelsur.com.ar/product/linerind/
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=419
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=419 to https://www.papeleradelsur.com.ar/servicios/innovacion-y-desarrollo/
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1107
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1107 to https://www.papeleradelsur.com.ar/servicios/servicio-al-cliente/
+19:50:09	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/img/generacion-circular/papelera-del-sur-generaciÃ³n circular banner.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/generacion-circular.css)
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=444
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=444 to https://www.papeleradelsur.com.ar/generacion-circular/
+19:50:09	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/img/bosques-protegidos/bosques-protegidos-hero.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/bosques-protegidos.css)
+19:50:09	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=649
+19:50:09	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=649 to https://www.papeleradelsur.com.ar/generacion-circular/bosques-protegidos/
+19:50:09	Error: 	"Not Found" (404) at link https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/img/alianza/alianza-circular-hero.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/alianza-circular.css)
+19:50:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/?p=1137 (from https://www.papeleradelsur.com.ar/generacion-circular/materia-prima-circular/)
+19:50:10	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=473
+19:50:10	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=473 to https://www.papeleradelsur.com.ar/comunidad/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1881
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1881 to https://www.papeleradelsur.com.ar/en/comunidad/santa-in-tornquist/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1884
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1884 to https://www.papeleradelsur.com.ar/en/comunidad/support-to-tornquist-protected-workshop/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1887
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1887 to https://www.papeleradelsur.com.ar/en/comunidad/actions-in-the-pandemic-food-donations/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1890
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1890 to https://www.papeleradelsur.com.ar/en/comunidad/actions-in-the-pandemic-property-use/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1893
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1893 to https://www.papeleradelsur.com.ar/en/comunidad/actions-in-the-pandemic-donation-of-intensive-care-unit-beds/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=551
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=551 to https://www.papeleradelsur.com.ar/novedades/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=554
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=554 to https://www.papeleradelsur.com.ar/contacto/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=652
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=652 to https://www.papeleradelsur.com.ar/generacion-circular/alianza-circular/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=866
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=866 to https://www.papeleradelsur.com.ar/novedades/expo-envase-alimentek-2022/
+19:50:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.papeleradelsur.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.papeleradelsur.com.ar%2Fnovedades%2Fexpo-envase-alimentek-2022%2F (from https://www.papeleradelsur.com.ar/novedades/expo-envase-alimentek-2022/)
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=875
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=875 to https://www.papeleradelsur.com.ar/novedades/lanzamiento-cartulina-terra-print/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=878
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=878 to https://www.papeleradelsur.com.ar/novedades/premios-estrella-del-sur/
+19:50:19	Error: 	"" (500) after 2 retries at link dev.zetenta.com/papeleradelsur/img/img-1.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:19	Error: 	"" (500) after 2 retries at link dev.zetenta.com/papeleradelsur/img/img-2.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:19	Error: 	"" (500) after 2 retries at link dev.zetenta.com/papeleradelsur/img/img-3.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:19	Error: 	"" (500) after 2 retries at link dev.zetenta.com/papeleradelsur/img/img-4.png (from https://www.papeleradelsur.com.ar/assets/themes/papeleradelsur/css/home.css)
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1137
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1137 to https://www.papeleradelsur.com.ar/generacion-circular/materia-prima-circular/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=507
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=507 to https://www.papeleradelsur.com.ar/comunidad/papa-noel-en-tornquist/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1264
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1264 to https://www.papeleradelsur.com.ar/comunidad/colaboracion-con-taller-protegido/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1446
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1446 to https://www.papeleradelsur.com.ar/comunidad/acciones-en-pandemia-donacion-de-alimentos/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1452
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1452 to https://www.papeleradelsur.com.ar/comunidad/acciones-em-pandemia-cesion-de-propiedad/
+19:50:19	Warning: 	Moved Permanently for https://www.papeleradelsur.com.ar/?p=1460
+19:50:19	Warning: 	File has moved from https://www.papeleradelsur.com.ar/?p=1460 to https://www.papeleradelsur.com.ar/comunidad/acciones-en-pandemia-donacion-de-camas-de-terapia-intensiva/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 34 seconds : 477 links scanned, 383 files written (48903963 bytes overall) [40338898 bytes received at 261940 bytes/sec], 12943492 bytes transferred using HTTP compression in 283 files, ratio 31%, 17.0 requests per connection
+(15 errors, 136 warnings, 0 messages)
